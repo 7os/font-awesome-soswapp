@@ -1,0 +1,13 @@
+{
+  "name" : "7os/font-awesome-soswapp",
+  "description" : "Font Awesome for 7 OS Web",
+  "homepage" : "https://github.com/7os/font-awesome-soswapp",
+  "support" : {
+    "email" : "dev@tymfrontiers.com",
+    "website" : "https://tymfrontiers.com",
+    "kollabo" : "@tymfrontiers",
+    "twitter" : "@tymfrontiers",
+    "facebook" : "@tymfrontiers",
+    "istagram" : "@tymfrontiers"
+  }
+}
